@@ -20,12 +20,12 @@ cs61a-scheme/
 ├── scheme_builtins.py    # Defines the built-in functions and special forms available in Scheme, such as arithmetic operations, list manipulation functions, and more.
 ├── scheme_classes.py     # Contains additional classes and structures used in the interpreter, such as environments and frames for variable scope and binding.
 ├── scheme_eval_apply.py: # Implements the core evaluation and application logic of the interpreter. This includes evaluating Scheme expressions and applying functions.
-├── scheme_forms.py: Defines the handling of special forms in Scheme, such as `define`, `lambda`, `if`, and `quote`.
-├── scheme_tokens.py: Handles lexical analysis and tokenization of Scheme source code.
-├── scheme_utils.py: Provides utility functions used throughout the project, including error handling, debugging aids, and helper methods.
-├── tests/           # Directory containing test files
-├── abstract_turtle/ # Handles opening the python turtle from the interpreter
-└── README.md        # Project overview and instructions (this file)
+├── scheme_forms.py:      # Defines the handling of special forms in Scheme, such as `define`, `lambda`, `if`, and `quote`.
+├── scheme_tokens.py:     # Handles lexical analysis and tokenization of Scheme source code.
+├── scheme_utils.py:      # Provides utility functions used throughout the project, including error handling, debugging aids, and helper methods.
+├── tests/                # Directory containing test files
+├── abstract_turtle/      # Handles opening the python turtle from the interpreter
+└── README.md             # Project overview and instructions (this file)
 ```
 
 ## Getting Started
